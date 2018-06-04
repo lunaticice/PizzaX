@@ -4,7 +4,7 @@
 
 	define('DBHOST', 'localhost:3306');
     define('DBUSER', 'pizk7883');
-    define('DBPASS', 'K875xvUCSZSj57');
+    define('DBPASS', '******'); //untuk keamanan password disembunyikan silahkan gunakan localhost masing" untuk testing
     define('DBNAME', 'pizk7883_pizza_resto');
 
 	class Database{
