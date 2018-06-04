@@ -1,0 +1,6 @@
+[02-Jun-2018 18:45:21 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pizk7883/public_html/pizzax/database/Database.php on line 14
+[02-Jun-2018 18:46:13 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pizk7883/public_html/database/Database.php on line 14
+[02-Jun-2018 18:56:23 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pizk7883/public_html/database/Database.php on line 14
+[02-Jun-2018 18:56:31 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pizk7883/public_html/database/Database.php on line 14
+[02-Jun-2018 18:56:38 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pizk7883/public_html/database/Database.php on line 14
+[02-Jun-2018 18:56:39 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pizk7883/public_html/database/Database.php on line 14
